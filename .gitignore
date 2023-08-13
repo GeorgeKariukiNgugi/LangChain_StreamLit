@@ -1,1 +1,4 @@
-env.txt
+../api2.py
+../.ipynb_checkpoints/
+../__pycache__/
+
